@@ -21,7 +21,15 @@ Eureka注册中心集群环境: 负载均衡，容错控制
 
 Eureka集群搭建
 
-1、修改hosts
-  C:\Windows\System32\drivers\etc 
-  127.0.0.1 eureka7001.com
-  127.0.0.1 eureka7002.com
+   1、修改hosts
+         C:\Windows\System32\drivers\etc 
+  
+         127.0.0.1 eureka7001.com
+  
+         127.0.0.1 eureka7002.com
+
+Consul 下载：https://www.consul.io/downloads.html
+
+相关命令：consul --version：查看版本信息 consul agent -dev：运行部署consul
+
+
