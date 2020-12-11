@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: 
+          uri:
           search-paths:
             - springcloud-config
       label: master
