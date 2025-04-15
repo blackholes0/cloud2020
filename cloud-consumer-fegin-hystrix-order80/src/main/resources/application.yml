@@ -11,4 +11,4 @@ eureka:
 
 feign:
   hystrix:
-    enabled: true
+    enabled: truedfsdfdfd
