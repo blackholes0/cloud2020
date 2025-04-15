@@ -25,5 +25,5 @@ eureka:
 management:
   endpoints:
     web:
-      exposure:fd
-        include: "*"f
+      exposure:
+        include: "*"
