@@ -28,3 +28,4 @@ management:1
       exposure:fd
         include: "*"f
         11111
+        2222
